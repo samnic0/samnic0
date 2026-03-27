@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=55&lines=Engineering+Student+%40+SETU+Ireland+%F0%9F%8E%93;Building+100+Python+Projects+in+100+Days+%F0%9F%90%8D;Python+%2B+Hardware+%3D+Endless+Possibilities+%F0%9F%94%A7;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=55&lines=Aerospace+Engineering+Student+%F0%9F%9A%80;Building+100+Python+Projects+in+100+Days+%F0%9F%90%8D;Python+%2B+Hardware+%3D+Endless+Possibilities+%F0%9F%94%A7;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,13 +15,14 @@
 ```python
 sam = {
     "name"      : "Sam Nicomedes",
-    "studying" : "Aerospace Engineering",
+    "college"   : "South East Technological University (SETU), Ireland",
+    "studying"  : "Engineering",
     "currently" : "100 Days of Code — Complete Python Pro Bootcamp 🐍",
     "hardware"  : ["Arduino", "Raspberry Pi", "Electronics & PCB Design"],
     "cad"       : ["SolidWorks", "AutoCAD"],
     "simulation": "Proteus",
     "ask_me"    : "Python, engineering, or how to wire up an Arduino 😄",
-    "goal"      : "Combine Engineering Thinking with software + hardware to build real things"
+    "goal"      : "Combine software + hardware to build real things"
 }
 ```
 
