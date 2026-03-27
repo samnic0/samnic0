@@ -15,14 +15,13 @@
 ```python
 sam = {
     "name"      : "Sam Nicomedes",
-    "college"   : "South East Technological University (SETU), Ireland",
-    "studying"  : "Engineering",
+    "studying" : "Aerospace Engineering",
     "currently" : "100 Days of Code — Complete Python Pro Bootcamp 🐍",
     "hardware"  : ["Arduino", "Raspberry Pi", "Electronics & PCB Design"],
     "cad"       : ["SolidWorks", "AutoCAD"],
     "simulation": "Proteus",
     "ask_me"    : "Python, engineering, or how to wire up an Arduino 😄",
-    "goal"      : "Combine software + hardware to build real things"
+    "goal"      : "Combine Engineering Thinking with software + hardware to build real things"
 }
 ```
 
